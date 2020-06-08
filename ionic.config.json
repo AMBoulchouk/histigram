@@ -1,0 +1,7 @@
+{
+  "name": "histigram",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
